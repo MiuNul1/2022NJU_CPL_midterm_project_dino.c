@@ -626,7 +626,7 @@ void ACCELERATE()
         break;
     case 4:
         SHOWSPEED(4);
-        FPS = 80;
+        FPS = 85;
         break;
     default:
         SHOWSPEED(4);
